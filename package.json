@@ -1,0 +1,15 @@
+{
+  "name": "calcilator-on-your-desktop",
+  "version": "1.0.0",
+  "description": "the calculator of your dreams",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdulilah Al-Hamei",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
